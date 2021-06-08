@@ -1,0 +1,3 @@
+def methodName() { 
+   //Method code 
+}
